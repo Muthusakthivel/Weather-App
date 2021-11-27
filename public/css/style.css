@@ -77,7 +77,7 @@ body {
   .widget .weatherInfo {
     flex: 0 0 70%;
     height: 40%;
-    background: #080705;
+    background: #333333;
     border-bottom-left-radius: 20px;
     display: flex;
     align-items: center;
@@ -109,7 +109,7 @@ body {
   .widget .date {
     flex: 0 0 30%;
     height: 40%;
-    background: rgb(68, 112, 207);
+    background: rgb(52, 228, 8);
     border-bottom-right-radius: 20px;
     display: flex;
     justify-content: space-around;
