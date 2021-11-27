@@ -12,6 +12,7 @@
     "@babel/preset-env": "^7.16.4",
     "express": "^4.17.1",
     "hbs": "^4.2.0",
+    "mysql": "^2.18.1",
     "request": "^2.88.2"
   },
   "description": ""
